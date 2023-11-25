@@ -1,4 +1,4 @@
-# exercise2SPImicro2023group15
+# Mirco-processor 231-Exercise 2 SPI - Group 15
 
 Note: This is a local exercise project repository that is only used for educational purpose only
 
